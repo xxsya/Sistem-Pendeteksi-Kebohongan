@@ -1,3 +1,7 @@
+NAMA : Achmad Rasya Adiwidjaya
+NIM  :2404591
+KELAS : 1A
+
 # Sistem-Pendeteksi-Kebohongan
 
 Sistem pendeteksi kebohongan berbasis AI ini bertujuan untuk mengidentifikasi tanda-tanda kebohongan melalui analisis ucapan (speech) dan ekspresi wajah. Sistem ini akan menggunakan pemrosesan bahasa alami (Natural Language Processing) untuk menganalisis pola bicara dan deteksi emosi wajah menggunakan Computer Vision. Selain itu, bisa juga menggunakan data fisiologis seperti pola pernapasan dan detak jantung jika tersedia sensor tambahan.
