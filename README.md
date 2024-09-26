@@ -1,5 +1,7 @@
 NAMA : Achmad Rasya Adiwidjaya
+
 NIM  :2404591
+
 KELAS : 1A
 
 # Sistem-Pendeteksi-Kebohongan
